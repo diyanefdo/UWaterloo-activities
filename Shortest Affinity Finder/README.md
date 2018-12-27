@@ -1,0 +1,1 @@
+The following project comprises of graph nodes assigned to each individual in the network of people. In the network of people, the level of connections between graph nodes(people) are quantified by a number from 1-10. The program uses Dijkstra's Algorithm to find the shortest path (shortest affinity connection) between one particular person to another in a graph ADT structure.
