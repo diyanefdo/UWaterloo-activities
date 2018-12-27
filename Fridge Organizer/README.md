@@ -1,0 +1,1 @@
+Used Stacks and Lists in C++ to create a program that organizes several stacks of food items and sorts them accordingly as food gets removed/added from/to the Fridge. The program uses dynamic memory allocation in creating food instances (in stack and list) and automatically changes size and amount of memory allcated as the amount of food changes.
