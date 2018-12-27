@@ -1,0 +1,1 @@
+The above program provides the service of maintaining Drone record information for a fleet of Drones in a sorted manner to be available for customers. The program makes use a linked list implementation with several classes involving data inheritance to provide the intended functionality to the customers.
