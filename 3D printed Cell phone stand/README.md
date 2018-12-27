@@ -1,0 +1,1 @@
+Designed a prototype of a stable cell phone stand for use by cellphone distributors and owners to firmly hold the cellphone allowing convenient access to charging and audio ports. The 3D design was drawn on SolidWorks such that a minimum amount of material (1.5 cubic Inch) was used in the prototype. The final design was then 3D printed.
